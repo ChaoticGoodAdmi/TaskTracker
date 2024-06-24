@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/ChaoticGoodAdmi/user-service.git
+[submodule "task-service"]
+	path = task-service
+	url = https://github.com/ChaoticGoodAdmi/task-service.git
